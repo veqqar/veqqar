@@ -14,7 +14,7 @@ v3qq42
 
 ## tech stack
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bot-JohnLemon&layout=compact&langs_count=8&hide=scss,css&theme=dracula&card_width=465px&border_color=282A36&border_radius=0)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veqqar&layout=compact&langs_count=8&hide=scss,css&theme=dracula&card_width=465px&border_color=282A36&border_radius=0)
 
 <table>
     <tbody>
